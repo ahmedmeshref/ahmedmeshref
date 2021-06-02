@@ -17,8 +17,8 @@
 [comment]: <> ([Resume]&#40;http://ahmedmeshref.com&#41;)
 
 ### ⚡ GitHub Stats:
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmeshref&show_icons=true)](https://github.com/ahmedmeshref)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmeshref&hide=jupyter%20notebook,HTMl,CSS)](https://github.com/ahmedmeshref)
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmeshref&show_icons=true)](https://github.com/ahmedmeshref?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmeshref&hide=jupyter%20notebook,HTMl,CSS)](https://github.com/ahmedmeshref?tab=repositories)
 
 [website]: https://ahmedmeshref.me
 
