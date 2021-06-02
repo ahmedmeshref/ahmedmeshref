@@ -12,9 +12,9 @@
 - [<img align="left" alt="ahmed-meshref | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-### Download my Resume:
+[comment]: <> (### Download my Resume:)
 
-[Resume](http://ahmedmeshref.com)
+[comment]: <> ([Resume]&#40;http://ahmedmeshref.com&#41;)
 
 ### ⚡ GitHub Stats:
 [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmeshref&show_icons=true)](https://github.com/ahmedmeshref)
