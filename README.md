@@ -20,15 +20,6 @@
 [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmeshref&show_icons=true)](https://github.com/ahmedmeshref)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmeshref&hide=jupyter%20notebook,HTMl,CSS)](https://github.com/ahmedmeshref)
 
-<div class="row" style="display: flex">
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmedmeshref&show_icons=true" style="width:100%; flex: 80%">
-  </div>
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmeshref&hide=jupyter%20notebook,HTMl,CSS" style="width:100%; flex: 20%">
-  </div>
-</div>
-
 [website]: https://ahmedmeshref.me
 
 [linkedin]: https://www.linkedin.com/in/ahmed-meshref/
