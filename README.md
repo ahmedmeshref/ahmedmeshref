@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Meshref</h1>
-<h4 align="center">Passionate Software Engineer from Egypt</h4>
+<h4 align="center">Software Engineer from Egypt</h4>
 
 - 🌱 I'm currently learning Design Patterns and Web Application Architecture.
   (Feel free to message me, if you are interested in any of these topics, for materials or a partner to study and build
